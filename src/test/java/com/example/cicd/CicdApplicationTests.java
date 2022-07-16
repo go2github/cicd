@@ -17,7 +17,7 @@ class CicdApplicationTests {
     @Test
     void contextLoads() {
         String msg=welcomeService.welcome("sheik");
-        assertEquals("sheik welcome to cicdlh",msg);
+        assertEquals("sheik welcome to cicdlhf",msg);
     }
 
 }
